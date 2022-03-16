@@ -21,6 +21,7 @@ Analyse data across multiple repositories
   - Users committing big chunks of code
   - Users who are reviewers but not reviewing PR for long time
   - Users with maximum PR review backlog
+  - Collaborators across all repos: who and how many
 - Branches
   - List stale branches across all repositories
 
